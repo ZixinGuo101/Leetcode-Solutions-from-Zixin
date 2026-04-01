@@ -33,6 +33,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -48,4 +49,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
