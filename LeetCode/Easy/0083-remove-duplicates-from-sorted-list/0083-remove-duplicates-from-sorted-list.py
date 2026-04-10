@@ -15,11 +15,10 @@ class Solution(object):
         fast = head.next
 
         while fast is not None:
-            if fast.val == slow.val:
-                slow.next = fast.next
-            else:
+            if fast.val != slow.val:
+                slow.next = fast
                 slow = fast
             fast = fast.next
-        
+        slow.next = None # 断开与后续链表的连接
         return head
                 
