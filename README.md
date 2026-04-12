@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -71,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0086-partition-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -83,6 +85,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Stack
