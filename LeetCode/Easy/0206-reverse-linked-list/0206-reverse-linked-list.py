@@ -9,18 +9,14 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if head is None:
-            return
-        dummy = ListNode()
-        p1 = head
-        p2 = head.next
-        p1.next = None
-        while p2 is not None:
-            temp = p2.next
-            p2.next = p1
-            p1 = p2
-            p2 = temp
-        dummy.next = p1
+        if head is None or head.next is None:
+            return head
         
-        return dummy.next
+        res = self.reverseList(head.next)
+
+        head.next.next = head
+        head.next = None
+
+        return res
+
         
