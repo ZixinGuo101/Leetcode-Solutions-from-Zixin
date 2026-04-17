@@ -7,29 +7,27 @@ class Solution(object):
         """
         res = 0
         count = 0
-        indi = set()
-        s = {}
-
+        d = dict()
 
         for right, num in enumerate(nums):
-            if s.get(num, 0) != 0:
-                indi.add(num)
-                s[num] += 1
+            if num in d:
+                d[num] += 1
             else:
-                s[num] = 1
+                d[num] = 1
             count += num
 
             left = right - k + 1
             if left < 0:
                 continue
             
-            if not indi:
+            if len(d) == k:
                 res = max(res, count)
             
-            s[nums[left]] -= 1
-            if s[nums[left]] == 1:
-                indi.discard(nums[left])
-            count -= nums[left]
+            end = nums[left]
+            count -= end
+            d[end] -= 1
+            if d[end] == 0:
+                del d[end]
         
         return res
 
