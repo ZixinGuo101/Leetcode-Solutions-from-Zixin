@@ -12,11 +12,13 @@ class Solution(object):
         for right, num in enumerate(nums):
             cnt += num
 
-            while cnt >= target:
-                l = right - left + 1
-                res = l if l < res else res
+            while cnt - nums[left] >= target:
                 cnt -= nums[left]
                 left += 1
+            
+            if cnt >= target:
+                l = right - left + 1
+                res = l if l < res else res
             
         return res if res < float('inf') else 0
 
