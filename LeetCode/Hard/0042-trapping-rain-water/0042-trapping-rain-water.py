@@ -4,20 +4,38 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        n= len(height)
-        area = 0
-        pre = [0] * n
-        suf = [0] * n
-        pre[0] = height[0]
-        suf[n-1] = height[n-1]
+        n = len(height)
+        if n <= 2:
+            return 0
+        left = 1
+        right = n - 2
+        cnt = 0
+        pre = height[0]
+        suf = height[n-1]
 
-        for i in range(1, n):
-            pre[i] = pre[i-1] if pre[i-1] > height[i] else height[i]
-            suf[n-i-1] = suf[n-i] if suf[n-i] > height[n-i-1] else height[n-i-1]
+        while left <= right:
+            if pre > suf:
+                if height[right] >= suf:
+                    suf = height[right]
+                else:
+                    cnt += suf - height[right]
+                right -= 1
+            else:
+                if height[left] >= pre:
+                    pre = height[left]
+                else:
+                    cnt += pre - height[left]
+                left += 1
+            print(cnt)
         
-        for i in range(n):
-            cnt = min(pre[i], suf[i]) - height[i]
-            area += cnt
-        
-        return area
+        return cnt
+        '''
+                  -
+        -         -
+        -     -   -
+        - -   - - -
+        - -   - - -
+        - - - - - -
+        '''
+
         
