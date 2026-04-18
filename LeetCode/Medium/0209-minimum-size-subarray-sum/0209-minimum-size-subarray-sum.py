@@ -11,7 +11,7 @@ class Solution(object):
 
         for right, num in enumerate(nums):
             cnt += num
-
+            '''
             while cnt - nums[left] >= target:
                 cnt -= nums[left]
                 left += 1
@@ -19,6 +19,12 @@ class Solution(object):
             if cnt >= target:
                 l = right - left + 1
                 res = l if l < res else res
+            '''
+            while cnt >= target:
+                l = right - left + 1
+                res = l if l < res else res
+                cnt -= nums[left]
+                left += 1
             
         return res if res < float('inf') else 0
 
