@@ -13,5 +13,5 @@ class Solution(object):
                 d.discard(s[left])
                 left += 1
             d.add(c)
-            res = max(res, len(d))
+            res = len(d) if len(d) > res else res
         return res
