@@ -9,7 +9,7 @@ class Solution(object):
         left = 0
 
         for right, c in enumerate(s):
-            if c in d:
+            while c in d:
                 d.discard(s[left])
                 left += 1
             d.add(c)
