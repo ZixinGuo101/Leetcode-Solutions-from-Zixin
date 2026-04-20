@@ -5,20 +5,18 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        min_sum = 0
         n = len(cardPoints)
         m = n - k
-        sub_sum = 0
-        
+        win_c = 0
+
 
         for i in range(m):
-            sub_sum += cardPoints[i]
-        min_sum = sub_sum
-        card_sum = sub_sum
-        for i in range(m,n):
-            card_sum += cardPoints[i]
-            sub_sum += cardPoints[i] - cardPoints[i-m]
-            min_sum = min(min_sum, sub_sum)
+            win_c += cardPoints[i]
         
-        return card_sum - min_sum
+        min_win = sum_c = win_c
+        for i in range(m, n):
+            sum_c += cardPoints[i]
+            win_c += cardPoints[i] - cardPoints[i-m]
+            min_win = min_win if min_win < win_c else win_c
         
+        return sum_c - min_win
