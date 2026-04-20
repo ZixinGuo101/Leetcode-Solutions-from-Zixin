@@ -15,10 +15,10 @@ class Solution(object):
             max_l = height[l] if height[l] > max_l else max_l
             max_r = height[r] if height[r] > max_r else max_r
             if max_l > max_r:
-                v += max_r - height[r] if (max_r - height[r]) > 0 else 0
+                v += max_r - height[r]
                 r -= 1
             else:
-                v += max_l - height[l] if (max_l - height[l] > 0) else 0
+                v += max_l - height[l]
                 l += 1
         
         return v
