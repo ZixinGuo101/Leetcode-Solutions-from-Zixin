@@ -4,17 +4,22 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-
-        res = nums[0]
         n = len(nums)
-        cur = nums[0]
+        left = 0
+        right = 1
+        cnt = nums[0]
+        max_cnt = nums[0]
 
-        for i in range(1, n):
-            if nums[i] > nums[i-1]:
-                cur = cur + nums[i]
-                res = max(cur, res)
+        while right < n:
+            if nums[right] > nums[right - 1]:
+                cnt += nums[right]
+                max_cnt = cnt if max_cnt < cnt else max_cnt
             else:
-                cur = nums[i]
+                left = right
+                cnt = nums[left]
+            
+            right += 1
         
-        return res
+        return max_cnt
+
         
