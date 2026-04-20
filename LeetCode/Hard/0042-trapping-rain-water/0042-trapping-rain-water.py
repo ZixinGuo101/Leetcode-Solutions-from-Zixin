@@ -5,22 +5,22 @@ class Solution(object):
         :rtype: int
         """
         n = len(height)
-        left = 0
-        right = n - 1
-        pre_max = 0
-        suf_max = 0
-        area = 0
+        l = 0
+        r = n - 1
+        v = 0
+        max_l = 0
+        max_r = 0
 
-        while left < right:
-            pre_max = pre_max if pre_max > height[left] else height[left]
-            suf_max = suf_max if suf_max > height[right] else height[right]
-            if pre_max < suf_max:
-                area += pre_max - height[left]
-                left += 1
+        while l < r:
+            max_l = height[l] if height[l] > max_l else max_l
+            max_r = height[r] if height[r] > max_r else max_r
+            if max_l > max_r:
+                v += max_r - height[r] if (max_r - height[r]) > 0 else 0
+                r -= 1
             else:
-                area += suf_max - height[right]
-                right -= 1
+                v += max_l - height[l] if (max_l - height[l] > 0) else 0
+                l += 1
         
-        return area
-        
+        return v
+
         
