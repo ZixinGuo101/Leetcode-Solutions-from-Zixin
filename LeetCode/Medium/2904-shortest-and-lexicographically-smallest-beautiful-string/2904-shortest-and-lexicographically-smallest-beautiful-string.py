@@ -5,26 +5,22 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        if s.count('1') < k:
-            return ''
-
-        cntk = 0
-        ans = ''
-        min_len = int
+        min_len = len(s) + 1
         left = 0
+        cnt1 = 0
+        ans = ''
+
         for right, c in enumerate(s):
-            cntk += int(c)
+            cnt1 += int(c) - int('0')
 
-            while s[left] == '0' or cntk > k:
-                cntk -= int(s[left])
+            while (s[left] == '0' and left < right) or cnt1 > k:
+                cnt1 -= int(s[left]) - int('0')
                 left += 1
-
-            if cntk == k:
+            
+            if cnt1 == k:
                 l = right - left + 1
-                res = s[left : right+1]
-                if ans == '' or l < len(ans) or (l == len(ans) and res < ans):
-                    ans = res
+                if ans == '' or l < min_len or (l == min_len and s[left:right+1] < ans):
+                    ans = s[left:right+1]
+                    min_len = len(ans)
         
         return ans
-                
-        
