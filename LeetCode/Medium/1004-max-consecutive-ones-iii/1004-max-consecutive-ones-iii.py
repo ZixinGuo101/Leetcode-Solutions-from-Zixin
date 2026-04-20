@@ -5,20 +5,20 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = 0
-        cnt_0 = 0
-        cnt = 0
+        cnt0 = 0
+        max_sub = 0
         left = 0
 
         for right, num in enumerate(nums):
             if num == 0:
-                cnt_0 += 1
-            while cnt_0 > k:
-                if nums[left] == 0:
-                    cnt_0 -= 1
+                cnt0 += 1
+            
+            while left <= right and cnt0 > k:
+                cnt0 += nums[left] - 1
                 left += 1
+            
             l = right - left + 1
-            res = l if l > res else res
+            max_sub = l if l > max_sub else max_sub
         
-        return res
+        return max_sub
         
