@@ -5,28 +5,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        res = float('inf')
-        left = 0
+        ans = float('inf')
         cnt = 0
+        left = 0
 
         for right, num in enumerate(nums):
             cnt += num
-            '''
-            while cnt - nums[left] >= target:
-                cnt -= nums[left]
-                left += 1
-            
-            if cnt >= target:
-                l = right - left + 1
-                res = l if l < res else res
-            '''
+
             while cnt >= target:
-                l = right - left + 1
-                res = l if l < res else res
+                l = right -left + 1
+                ans = l if l < ans else ans
                 cnt -= nums[left]
                 left += 1
-            
-        return res if res < float('inf') else 0
-
-
+        
+        return ans if ans < float('inf') else 0
         
