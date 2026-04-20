@@ -7,33 +7,32 @@ class Solution(object):
         """
         m = len(s)
         n = len(t)
-        need = dict()
-        window = dict()
 
-        for i in range(n):
-            need[t[i]] = need.get(t[i], 0) + 1
+        if m < n:
+            return ''
         
-        valid = 0
+        d = dict()
+        for i in range(n):
+            d[t[i]] = d.get(t[i], 0) + 1
+        
         left = 0
-        min_len = len(s) + 1
+        min_len = m + 1
         min_left = 0
         for right, c in enumerate(s):
-            if c in need:
-                window[c] = window.get(c, 0) + 1
-                if window[c] == need[c]:
-                    valid += 1
+            if c in d:
+                if d[c] > 0:
+                    n -= 1
+                d[c] -= 1
             
-            while valid == len(need):
+            while n == 0:
                 l = right - left + 1
-                if l <= min_len:
+                if l < min_len:
                     min_len = l
                     min_left = left
-                if s[left] in need:
-                    window[s[left]] -= 1
-                    if window[s[left]] < need[s[left]]:
-                        valid -= 1
+                if s[left] in d:
+                    d[s[left]] += 1
+                    if d[s[left]] > 0:
+                        n += 1
                 left += 1
-            
-        return s[min_left : min_left + min_len] if min_len < len(s) + 1 else ''
-
         
+        return s[min_left : min_left + min_len] if min_len < (m + 1) else ''
