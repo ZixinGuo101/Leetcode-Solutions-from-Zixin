@@ -4,17 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        d = dict()
+        d = set()
         left = 0
-        res = 0
+        ans = 0
 
         for right, c in enumerate(s):
-            while d.get(c, 0) != 0:
-                d[s[left]] -= 1
+            while c in d:
+                d.discard(s[left])
                 left += 1
-            d[c] = d.get(c, 0) + 1
+            d.add(c)
             l = right - left + 1
-            res = l if l > res else res
-        
-        return res
+            ans  = l if l > ans else ans
+
+        return ans
         
