@@ -5,31 +5,26 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = float('inf')
+        ans = len(nums) + 1
         left = 0
-        l = float('inf')
         cnt = 0
         d = dict()
+
         for right, num in enumerate(nums):
             if num not in d:
                 cnt += num
             d[num] = d.get(num, 0) + 1
 
             while cnt >= k:
-                end = nums[left]
-                if d[end] == 1:
-                    cnt -= end
-                    del d[end]
-                else:
-                    d[end] -= 1
                 l = right - left + 1
-                res = l if l < res else res
+                ans = l if l < ans else ans
+                end = nums[left]
+                d[end] -= 1
+                if d[end] == 0:
+                    del d[end]
+                    cnt -= end
                 left += 1
-            
-            
-            
-
-        if res == float('inf'):
+        
+        if ans == (len(nums) + 1):
             return -1
-        else:
-            return res
+        return ans
