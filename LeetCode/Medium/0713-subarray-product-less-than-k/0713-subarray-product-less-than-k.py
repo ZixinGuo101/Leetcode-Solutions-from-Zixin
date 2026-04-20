@@ -5,17 +5,23 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        left = 0
+        if k == 0:
+            return 0
+        
+        cnt = 0
         pdt = 1
-        res = 0
+        left = 0
 
         for right, num in enumerate(nums):
-            pdt = pdt * num
+            pdt *= num
 
             while left <= right and pdt >= k:
                 pdt = pdt / nums[left]
                 left += 1
             
-            res += right - left + 1
+            cnt += right - left + 1
         
-        return res
+        return cnt
+            
+
+        
