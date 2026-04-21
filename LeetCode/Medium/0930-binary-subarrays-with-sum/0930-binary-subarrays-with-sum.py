@@ -5,23 +5,17 @@ class Solution(object):
         :type goal: int
         :rtype: int
         """
+        d = {0:1}
+        pre_sum = 0
+        n = len(nums)
+        ans = 0
 
-        def solve(k):
-            ans  = 0
-            left = 0
-            cnt = 0
+        for i in range(n):
+            pre_sum += nums[i]
 
-            for right, num in enumerate(nums):
-                cnt += num
-
-                while left <= right and cnt >= k:
-                    cnt -= nums[left]
-                    left += 1
-                
-                ans += left
-            
-            return ans
+            if pre_sum - goal in d:
+                ans += d[pre_sum-goal]
+            d[pre_sum] = d.get(pre_sum, 0) + 1
         
-        return solve(goal) - solve(goal+1)
-
+        return ans
         
