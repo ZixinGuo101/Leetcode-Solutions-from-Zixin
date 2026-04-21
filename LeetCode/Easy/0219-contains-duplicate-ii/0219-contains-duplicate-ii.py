@@ -5,19 +5,11 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        d = set()
-        left = 0
-        
-        for right, num in enumerate(nums):
-            if num in d:
-                return True
-            d.add(num)
+        d = dict()
 
-            if right - left + 1 < k + 1:
-                continue
-            
-            d.discard(nums[left])
-            left += 1
+        for right, num in enumerate(nums):
+            if num in d and right - d[num] <= k:
+                return True
+            d[num] = right
         
         return False
-        
