@@ -7,28 +7,31 @@ class Solution(object):
         """
         m = len(s1)
         n = len(s2)
+
         if m > n:
             return False
         
         d = [0] * 26
         for i in range(m):
-            d[ord(s1[i]) - ord('a')] += 1
+            d[ord(s1[i]) - ord('a')] -= 1
         
-        left = 0
         k = m
         for right, c in enumerate(s2):
-            if d[ord(c) - ord('a')] > 0:
+            start = ord(c) - ord('a')
+            if d[start] < 0:
                 k -= 1
-            d[ord(c) - ord('a')] -= 1
-            
-            if right - m + 1 < 0:
+            d[ord(c) - ord('a')] += 1
+
+            left = right - m + 1
+            if left < 0:
                 continue
-            
-            if k == 0:
+
+            while k == 0:
                 return True
             
-            d[ord(s2[left]) - ord('a')] += 1
-            if d[ord(s2[left]) - ord('a')] > 0:
+            end = ord(s2[left]) - ord('a')
+            d[end] -= 1
+            if d[end] < 0:
                 k += 1
             left += 1
         
