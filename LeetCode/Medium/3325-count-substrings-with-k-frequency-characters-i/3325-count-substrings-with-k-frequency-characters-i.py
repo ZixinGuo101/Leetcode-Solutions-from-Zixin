@@ -15,12 +15,8 @@ class Solution(object):
         
         for right, c in enumerate(s):
             d[c] = d.get(c, 0) + 1
-            if d[c] == k:
-                cnt += 1
             
-            while cnt >= 1:
-                if d[s[left]] == k:
-                    cnt -= 1
+            while d[c] >= k:
                 d[s[left]] -= 1
                 left += 1
             
