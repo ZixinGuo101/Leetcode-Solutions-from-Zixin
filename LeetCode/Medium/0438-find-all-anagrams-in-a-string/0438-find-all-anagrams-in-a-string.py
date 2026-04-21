@@ -11,29 +11,30 @@ class Solution(object):
         if m < n:
             return ans
         
-        d = [0] * 26
+        d = dict()
         for i in range(n):
-            d[ord(p[i]) - ord('a')] += 1
-        
-        left = 0
-        k = n
+            d[p[i]] = d.get(p[i], 0) - 1
+
+        valid = len(d)
+        cnt = 0
         for right, c in enumerate(s):
-            if d[ord(c) - ord('a')] > 0:
-                k -= 1
-            d[ord(c) - ord('a')] -= 1
+            if c in d:
+                d[c] += 1
+                if d[c] == 0:
+                    cnt += 1
             
-            if right - n + 1 < 0:
+            left = right - n + 1
+            if left < 0:
                 continue
-            
-            if k == 0:
+
+            if cnt == valid:
                 ans.append(left)
             
-            d[ord(s[left]) - ord('a')] += 1
-            if d[ord(s[left]) - ord('a')] > 0:
-                k += 1
+            if s[left] in d:
+                if d[s[left]] == 0:
+                    cnt -= 1
+                d[s[left]] -= 1
             left += 1
-        
+
         return ans
-
-
         
