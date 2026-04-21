@@ -1,22 +1,29 @@
 class Solution(object):
+    def solve(self, nums, k):
+        ans = 0
+        left = 0
+        cnt1 = 0
+        for right, num in enumerate(nums):
+            cnt1 += num
+
+            while cnt1 >= k:
+                cnt1 -= nums[left]
+                left += 1
+            
+            ans += left
+        
+        return ans
+
+
     def numberOfSubarrays(self, nums, k):
         """
         :type nums: List[int]
         :type k: int
         :rtype: int
         """
-        ans = 0
-        pre_cnt = 0
-        d = {0:1}
-
         for i in range(len(nums)):
-            if nums[i] & 1 == 1:
-                pre_cnt += 1
-            
-            if pre_cnt - k in d:
-                ans += d[pre_cnt-k]
-            d[pre_cnt] = d.get(pre_cnt, 0) + 1
+            nums[i] = nums[i] & 1
         
-        return ans
-
+        return self.solve(nums, k) - self.solve(nums, k+1)
+        
         
