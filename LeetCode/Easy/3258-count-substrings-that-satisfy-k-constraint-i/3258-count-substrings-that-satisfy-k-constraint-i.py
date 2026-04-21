@@ -11,12 +11,16 @@ class Solution(object):
         ans  = 0
 
         for right, c in enumerate(s):
-            cnt0 += 1 - int(c)
-            cnt1 += int(c)
+            if c == '0':
+                cnt0 += 1
+            else:
+                cnt1 += 1
 
             while cnt0 > k and cnt1 > k:
-                cnt0 -= 1 - int(s[left])
-                cnt1 -= int(s[left])
+                if s[left] == '0':
+                    cnt0 -= 1
+                else:
+                    cnt1 -= 1
                 left += 1
             
             ans += right - left + 1
