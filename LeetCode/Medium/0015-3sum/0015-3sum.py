@@ -20,11 +20,9 @@ class Solution(object):
                 sn = nums[l] + nums[r]
                 ln, rn = nums[l], nums[r]
                 if  sn < cnt:
-                    while l < r and nums[l] == ln:
-                        l += 1   
+                    l += 1   
                 elif sn > cnt:
-                    while l < r and nums[r] == rn:
-                        r -= 1
+                    r -= 1
                 else:
                     ans.append([num, nums[l], nums[r]])
                     l += 1
