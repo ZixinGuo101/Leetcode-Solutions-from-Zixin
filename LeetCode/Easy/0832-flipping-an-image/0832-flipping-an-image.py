@@ -9,7 +9,7 @@ class Solution(object):
             r = len(row) - 1
             while l <= r:
                 if row[l] == row[r]:
-                    row[l] = row[r] = row[l] ^ 1
+                    row[l] = row[r] = 1 if row[l] == 0 else 0
                 l += 1
                 r -= 1
         
