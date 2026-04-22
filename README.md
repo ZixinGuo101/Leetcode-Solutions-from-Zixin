@@ -138,6 +138,7 @@
 | [0344-reverse-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
