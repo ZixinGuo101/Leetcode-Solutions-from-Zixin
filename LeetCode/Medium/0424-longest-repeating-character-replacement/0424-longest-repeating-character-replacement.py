@@ -5,23 +5,28 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        d = [0] * 26
-        ans = 0
+        max_freq = 0
+        maxfreq_c = ''
         left = 0
+        ans = 0
+        d = [0] * 26
 
         for right, c in enumerate(s):
-            start = ord(c) - ord('A')
-            d[start] += 1
-
-            l = right - left + 1
-            while l - max(d) > k:
-                end = ord(s[left]) - ord('A')
-                d[end] -= 1
+            ri = ord(c) - ord('A')
+            d[ri] += 1
+            if d[ri] >= max_freq:
+                maxfreq_c = c
+                max_freq = d[ri]
+            if right - left + 1 - max_freq > k:
+                li = ord(s[left]) - ord('A')
+                d[li] -= 1
+                if d[li] == maxfreq_c:
+                    max_freq -= 1
                 left += 1
-                l = right - left + 1
             
-            ans = l if l > ans else ans
+            ans = right - left + 1 if right - left + 1 > ans else ans
         
         return ans
+            # A A A B C D
 
         
