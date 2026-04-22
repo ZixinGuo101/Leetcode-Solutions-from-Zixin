@@ -1,4 +1,3 @@
-from sortedcontainers import SortedList
 class Solution(object):
     def containsNearbyAlmostDuplicate(self, nums, indexDiff, valueDiff):
         """
@@ -7,18 +6,24 @@ class Solution(object):
         :type valueDiff: int
         :rtype: bool
         """
-        st = SortedList()
+        d = dict()
+        ds = valueDiff + 1
 
         for right, num in enumerate(nums):
-            
-            idx = st.bisect_left(num)
-            if idx > 0 and abs(num - st[idx-1]) <= valueDiff:
-                return True
-            if idx < len(st) and abs(st[idx] - num) <= valueDiff:
-                return True
-            st.add(num)
+            k = num // ds if num >= 0 else (num+1) // ds - 1
 
-            if (right - indexDiff) >= 0:
-                st.remove(nums[right-indexDiff])
-        
+            if k in d:
+                return True
+            if k-1 in d and abs(num - d[k-1]) <= valueDiff:
+                return True
+            if k+1 in d and abs(d[k+1] - num) <= valueDiff:
+                return True
+
+            d[k] = num
+            if right - indexDiff >= 0:
+                left_num = nums[right - indexDiff]
+                end = left_num // ds if left_num >= 0 else (left_num+1) // ds - 1
+                del d[end]
+
         return False
+        
