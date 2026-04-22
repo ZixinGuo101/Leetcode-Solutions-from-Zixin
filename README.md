@@ -30,6 +30,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2090-k-radius-subarray-averages/) | Medium |
@@ -147,6 +148,7 @@
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -180,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
