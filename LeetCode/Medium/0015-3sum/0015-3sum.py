@@ -8,6 +8,8 @@ class Solution(object):
         n = len(nums)
         ans = list()
         for i, num in enumerate(nums):
+            if num > 0:
+                break
             if i > 0 and num == nums[i-1]:
                 continue
             # print(num)
