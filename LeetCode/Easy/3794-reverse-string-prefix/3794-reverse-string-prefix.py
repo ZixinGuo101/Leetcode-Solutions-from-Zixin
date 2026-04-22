@@ -5,13 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        left = 0
-        right = k-1
-        m = [''] * k
-        while left <= right:
-            m[left], m[right] = s[right], s[left]
-            left += 1 
-            right -= 1
-        s1 = ''.join(m)
-        return s1+s[k:]
+        s = list(s)
+        l = 0
+        r = k-1
+        while l < r:
+            s[l], s[r] = s[r], s[l]
+            l += 1
+            r -= 1
+        
+        return ''.join(s)
         
