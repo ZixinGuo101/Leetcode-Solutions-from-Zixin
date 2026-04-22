@@ -6,33 +6,16 @@ class Solution(object):
         :type x: int
         :rtype: List[int]
         """
-        n = len(arr)
-        idx = n
-        for i, num in enumerate(arr):
-            if num >= x:
-                idx = i
-                break
-        if idx == n:
-            l = n-2
-            r = n-1
-        else:
-            l = idx-1
-            r = idx
-        # print(l,r)
-        cnt = 0
-        while l >= 0 and r < n and cnt < k:
-            ld = abs(x - arr[l])
+        l = 0
+        r = len(arr) - 1
+
+        while l < r and (r - l + 1 > k):
+            ld = abs(arr[l] - x)
             rd = abs(arr[r] - x)
             if ld <= rd:
-                l -= 1
+                r -= 1
             else:
-                r += 1
-            cnt += 1
-            # print(l,r,cnt)
+                l += 1
         
-        if l < 0:
-            return arr[0:k]
-        if r >= n:
-            return arr[n-k:]
+        return arr[l:l+k]
         
-        return arr[l+1:r]
