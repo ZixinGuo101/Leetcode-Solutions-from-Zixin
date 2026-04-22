@@ -35,6 +35,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
