@@ -4,22 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        s = 0
-        f = 1
-        k = 1
-        cnt = 1
-
-        while f < len(nums):
-            if nums[f] == nums[s] and cnt == 1:
-                cnt += 1
-                s += 1
-                nums[s] = nums[f]
+        k = 2
+        i = 2
+        while i < len(nums):
+            if nums[i] != nums[k-2]:
+                nums[k] = nums[i]
                 k += 1
-            elif nums[f] != nums[s]:
-                cnt = 1
-                s += 1
-                nums[s] = nums[f]
-                k += 1
-            f += 1
+            i += 1
         
         return k
