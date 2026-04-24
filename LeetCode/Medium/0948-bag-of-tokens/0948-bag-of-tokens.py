@@ -6,11 +6,13 @@ class Solution(object):
         :rtype: int
         """
         tokens.sort()
+        '''
         if len(tokens) == 0 or tokens[0] > power:
             return 0
         
         if len(tokens) == 1:
             return 1
+        '''
         
         l = 0
         r = len(tokens) - 1
