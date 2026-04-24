@@ -5,23 +5,21 @@ class Solution(object):
         :rtype: int
         """
         s = 0
+        f = 1
         k = 1
-        n = len(nums)
         cnt = 1
 
-        for f in range(1, n):
-            if nums[f] == nums[s]:
-                if cnt == 2:
-                    continue
-                else:
-                    cnt += 1
-                    s += 1
-                    nums[s] = nums[f]
-                    k += 1
-            else:
+        while f < len(nums):
+            if nums[f] == nums[s] and cnt == 1:
+                cnt += 1
+                s += 1
+                nums[s] = nums[f]
+                k += 1
+            elif nums[f] != nums[s]:
                 cnt = 1
                 s += 1
                 nums[s] = nums[f]
                 k += 1
+            f += 1
         
         return k
