@@ -4,16 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        slow = 0
+        s = 0
+        k = 1
         n = len(nums)
-        new_n = 1
-        for fast in range(1, n):
-            if nums[fast] == nums[slow]:
+        for f in range(1, n):
+            if nums[f] == nums[s]:
                 continue
-            slow += 1
-            nums[slow] = nums[fast]
-            new_n += 1
+            s += 1
+            nums[s] = nums[f]
+            k += 1
         
-        return new_n
-
+        return k
         
