@@ -5,12 +5,18 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        d = dict()
+        d = set()
+        if k == 0:
+            return False
 
-        for right, num in enumerate(nums):
-            if num in d and right - d[num] <= k:
+        for r, num in enumerate(nums):
+            if num in d:
                 return True
-            d[num] = right
+            else:
+                d.add(num)
+            l = r - k
+            if l >= 0:
+                d.discard(nums[l])
         
         return False
         
