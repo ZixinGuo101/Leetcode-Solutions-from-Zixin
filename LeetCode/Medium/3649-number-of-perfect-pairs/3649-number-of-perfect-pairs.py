@@ -4,12 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort(key=abs)
+        nums = [abs(x) for x in nums]
+        nums.sort()
         ans = 0
         left = 0
 
         for i, num in enumerate(nums):
-            while abs(nums[left]) * 2 < abs(num):
+            while nums[left] * 2 < num:
                 left += 1
             ans += i - left
         
