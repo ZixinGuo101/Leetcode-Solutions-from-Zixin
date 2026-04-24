@@ -23,7 +23,7 @@ class Solution(object):
                 power -= tokens[l]
                 l += 1
                 ans += 1
-            elif r-1 > l:
+            elif r-1 > l and ans > 0:
                 power += tokens[r]
                 ans -= 1
                 r -= 1
