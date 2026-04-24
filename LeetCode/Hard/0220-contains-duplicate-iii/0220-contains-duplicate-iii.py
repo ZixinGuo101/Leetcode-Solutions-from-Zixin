@@ -7,20 +7,21 @@ class Solution(object):
         :rtype: bool
         """
         d = dict()
-        ds = valueDiff + 1
 
-        for right, num in enumerate(nums):
-            k = num // ds
-            if k in d:
+        for r, num in enumerate(nums):
+            idx = num / (valueDiff+1)
+            if idx in d:
                 return True
-            if k-1 in d and abs(num - d[k-1]) <= valueDiff:
+            if idx-1 in d and abs(d[idx-1] - num) <= valueDiff:
                 return True
-            if k+1 in d and abs(d[k+1] - num) <= valueDiff:
+            if idx+1 in d and abs(d[idx+1] - num) <= valueDiff:
                 return True
-
-            d[k] = num
-            if right - indexDiff >= 0:
-                del d[nums[right - indexDiff] // ds]
-
+            
+            d[idx] = num
+            
+            l = r - indexDiff
+            if l >= 0:
+                del d[nums[l] / (valueDiff+1)]
+        
         return False
         
