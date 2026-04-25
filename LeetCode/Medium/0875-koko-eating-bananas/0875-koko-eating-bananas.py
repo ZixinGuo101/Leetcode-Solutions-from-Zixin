@@ -21,9 +21,7 @@ class Solution(object):
             # print(mid, t)
             if t > h:
                 l = mid + 1
-            elif t < h:
-                r = mid - 1
-            elif t == h:
+            else:
                 r = mid - 1
         
         return l
