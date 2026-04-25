@@ -8,14 +8,12 @@ class Solution(object):
         def EatingHours(k):
             hours = 0
             for pile in piles:
-                hours += pile // k
-                if pile % k > 0:
-                    hours += 1
+                hours += (pile + k - 1) // k
             return hours
         
-        piles.sort()
+        # piles.sort()
         l = 1
-        r = piles[len(piles) - 1]
+        r = max(piles)
 
         while l <= r:
             mid = l + ( r - l) // 2
