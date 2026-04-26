@@ -6,6 +6,8 @@ class Solution(object):
         :rtype: bool
         """
         n = len(s)
+        if n == 0:
+            return True
         i = 0
         for c in t:
             if c == s[i]:
