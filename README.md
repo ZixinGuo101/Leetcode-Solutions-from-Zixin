@@ -179,6 +179,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
@@ -210,6 +211,7 @@
 | [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -361,6 +363,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
