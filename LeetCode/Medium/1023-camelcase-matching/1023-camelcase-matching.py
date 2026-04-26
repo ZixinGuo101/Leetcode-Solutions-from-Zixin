@@ -9,31 +9,21 @@ class Solution(object):
             n = len(q)
             ql = 0
             pl = 0
-            while ql < n and pl < pn:
-                # print(q[ql], q[ql] > 'Z')
-                while ql < n and q[ql] != pattern[pl] and q[ql] > 'Z':
+            while pl < pn:
+                while ql < n and q[ql] != pattern[pl] and q[ql].islower():
                     ql += 1
-                # print(ql,pl)
-                if ql < n and q[ql] != pattern[pl]:
+                
+                if ql == n or q[ql] != pattern[pl]:
                     return False
-                elif ql >= n:
-                    break
-                else:
-                    ql += 1
-                    pl += 1
-            
-            if pl < pn:
-                return False
-            while ql < n:
-                if q[ql] <= 'Z':
-                    return False
+                pl += 1
                 ql += 1
             
-            return True
-
-        ans = []
-        pn = len(pattern)
-        for qq in queries:
-            ans.append(match(qq))
+            while ql < n and q[ql].islower():
+                ql += 1
+            
+            return ql == n
         
-        return ans
+        pn = len(pattern)
+        ans = []
+
+        return [match(qq) for qq in queries]
