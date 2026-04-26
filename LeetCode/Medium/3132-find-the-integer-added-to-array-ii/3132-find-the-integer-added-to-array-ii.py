@@ -13,8 +13,8 @@ class Solution(object):
 
         for i in range(2, 0, -1):
             d = nums2[0] - nums1[i]
-            j = 1
-            for num1 in nums1[i+1:]:
+            j = 0
+            for num1 in nums1[i:]:
                 # print(num1)
                 if num1 + d == nums2[j]:
                     j += 1
