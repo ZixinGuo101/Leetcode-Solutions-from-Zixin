@@ -190,6 +190,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -212,6 +213,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
