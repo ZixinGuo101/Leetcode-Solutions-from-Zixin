@@ -10,11 +10,12 @@ class Solution(object):
         x = 0
         y = n - 1
         while x < m and y >= 0:
-            if matrix[x][y] == target:
+            val = matrix[x][y]
+            if val == target:
                 return True
-            elif matrix[x][y] > target:
+            elif val > target:
                 y -= 1
-            elif matrix[x][y] < target:
+            elif val < target:
                 x += 1
         
         return False
