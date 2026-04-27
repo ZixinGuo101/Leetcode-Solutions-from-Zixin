@@ -32,6 +32,7 @@
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0923-3sum-with-multiplicity/) | Medium |
@@ -78,6 +79,7 @@
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -133,6 +135,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
@@ -227,6 +230,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -252,6 +256,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0923-3sum-with-multiplicity/) | Medium |
 | [0948-bag-of-tokens](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
@@ -379,6 +384,7 @@
 | [0042-trapping-rain-water](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +430,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
