@@ -23,6 +23,6 @@ class Solution(object):
                 if s < 0 and s1 % s2 != 0:
                     s += 1
             stack.append(s)
-            print(s)
+            # print(s)
         
         return stack[0]
