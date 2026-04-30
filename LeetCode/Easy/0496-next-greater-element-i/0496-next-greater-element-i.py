@@ -11,12 +11,12 @@ class Solution(object):
         st = []
         res = [-1] * n
 
-        for i in range(m):
+        for i in range(m-1, -1, -1):
             while st and nums2[i] > st[-1]:
-                prev = st.pop()
-                if prev in d:
-                    idx = d[prev]
-                    res[idx] = nums2[i]
+                st.pop()
+            if st and nums2[i] in d:
+                idx = d[nums2[i]]
+                res[idx] = st[-1]
             st.append(nums2[i])
         
         return res
