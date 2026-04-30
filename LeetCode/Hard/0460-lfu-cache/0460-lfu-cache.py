@@ -39,12 +39,13 @@ class LinkedHashSet:
             return True
         else:
             return False
-    
+    '''
     def out(self):
         p = self.head.next
         while p != self.tail:
             print(p.k, p.v)
             p = p.next
+    '''
 
 class LFUCache(object):
 
