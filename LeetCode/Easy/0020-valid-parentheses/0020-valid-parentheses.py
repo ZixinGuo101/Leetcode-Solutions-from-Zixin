@@ -4,22 +4,24 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        stack = []
-
+        st = []
         for c in s:
-            if c in '({[':
-                stack.append(c)
+            if c in "([{":
+                st.append(c)
+            elif not st:
+                return False
             elif c == ')':
-                if not stack or stack.pop() != '(':
+                t = st.pop()
+                if t != '(':
                     return False
             elif c == ']':
-                if not stack or stack.pop() != '[':
+                t = st.pop()
+                if t != '[':
                     return False
-            elif c == '}':
-                if not stack or stack.pop() != '{':
+            else:
+                t = st.pop()
+                if t != '{':
                     return False
-        
-        if stack:
+        if st:
             return False
-        
         return True
