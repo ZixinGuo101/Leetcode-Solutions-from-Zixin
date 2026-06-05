@@ -7,6 +7,7 @@ class Solution(object):
         """
         res = []
         m = self.monoStack(nums2)
+        # print(m)
         for num in nums1:
             res.append(m[num])
         return res
@@ -17,10 +18,12 @@ class Solution(object):
         res = dict()
         stack = []
 
-        for i in range(n-1, -1, -1):
-            while stack and nums[i] >= stack[-1]:
-                stack.pop()
-            res[nums[i]] = -1 if not stack else stack[-1]
-            stack.append(nums[i])
-        
+        for i in range(n):
+            while stack and nums[i] > nums[stack[-1]]:
+                prev = stack.pop()
+                res[nums[prev]] = nums[i]
+            stack.append(i)
+        while stack:
+            cur = stack.pop()
+            res[nums[cur]] = -1
         return res
