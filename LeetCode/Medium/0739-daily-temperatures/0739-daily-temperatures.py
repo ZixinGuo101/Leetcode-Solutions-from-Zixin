@@ -9,9 +9,9 @@ class Solution(object):
         stack = []
 
         for i in range(n-1, -1, -1):
-            while stack and temperatures[i] >= stack[-1][0]:
+            while stack and temperatures[i] >= temperatures[stack[-1]]:
                 stack.pop()
-            res[i] = 0 if not stack else (stack[-1][1] - i)
-            stack.append([temperatures[i], i])
+            res[i] = 0 if not stack else (stack[-1] - i)
+            stack.append(i)
         
         return res
