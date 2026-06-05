@@ -187,6 +187,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -321,6 +322,7 @@
 | [0042-trapping-rain-water](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
@@ -343,6 +345,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -354,6 +357,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0388-longest-absolute-file-path/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -364,6 +368,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
