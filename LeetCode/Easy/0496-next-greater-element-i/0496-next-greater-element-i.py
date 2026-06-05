@@ -5,18 +5,22 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        d = {x : i for i, x in enumerate(nums1)}
-        n = len(nums1)
-        m = len(nums2)
-        st = []
-        res = [-1] * n
+        res = []
+        m = self.monoStack(nums2)
+        for num in nums1:
+            res.append(m[num])
+        return res
 
-        for i in range(m-1, -1, -1):
-            while st and nums2[i] > st[-1]:
-                st.pop()
-            if st and nums2[i] in d:
-                idx = d[nums2[i]]
-                res[idx] = st[-1]
-            st.append(nums2[i])
+    
+    def monoStack(self, nums):
+        n = len(nums)
+        res = dict()
+        stack = []
+
+        for i in range(n-1, -1, -1):
+            while stack and nums[i] >= stack[-1]:
+                stack.pop()
+            res[nums[i]] = -1 if not stack else stack[-1]
+            stack.append(nums[i])
         
         return res
