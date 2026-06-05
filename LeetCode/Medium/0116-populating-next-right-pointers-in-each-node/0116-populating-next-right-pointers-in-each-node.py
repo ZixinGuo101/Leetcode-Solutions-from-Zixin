@@ -16,16 +16,11 @@ class Solution(object):
         """
         if root is None:
             return
-        self.traverse(root.left, root.right)
+        if root.left is None:
+            return root
+        root.left.next = root.right
+        if root.next is not None:
+            root.right.next = root.next.left
+        self.connect(root.left)
+        self.connect(root.right)
         return root
-    
-    def traverse(self, l, r):
-        if l is None:
-            return
-        l.next = r
-        self.traverse(l.left, l.right)
-        self.traverse(l.right, r.left)
-        self.traverse(r.left, r.right)
-        return
-
-        
