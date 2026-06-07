@@ -64,6 +64,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2090-k-radius-subarray-averages](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -343,6 +344,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -485,6 +487,7 @@
 | [0654-maximum-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
