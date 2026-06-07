@@ -121,6 +121,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0707-design-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
+| [0901-online-stock-span](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 ## Prefix Sum
@@ -342,6 +343,7 @@
 | [0739-daily-temperatures](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
+| [0901-online-stock-span](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -418,6 +420,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 ## Bit Manipulation
@@ -488,6 +491,7 @@
 | [0496-next-greater-element-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
