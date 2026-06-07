@@ -12,14 +12,13 @@ class Solution(object):
         res = []
         stk = []
         p = head
-        idx = 0
+
         while p:
             while stk and p.val > res[stk[-1]]:
                 res[stk.pop()] = p.val
+            stk.append(len(res))
             res.append(p.val)
-            stk.append(idx)
             p = p.next
-            idx += 1
         for i in stk:
             res[i] = 0
         
