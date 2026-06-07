@@ -52,6 +52,7 @@
 | [0948-bag-of-tokens](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
 | [1094-car-pooling](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
@@ -201,6 +202,7 @@
 | [0641-design-circular-deque](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -339,6 +341,7 @@
 | [0844-backspace-string-compare](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Tree
@@ -481,6 +484,7 @@
 | [0496-next-greater-element-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
