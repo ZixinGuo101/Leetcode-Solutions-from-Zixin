@@ -14,7 +14,7 @@ class Solution(object):
         :type root: Node
         :rtype: Node
         """
-        if root is None:
+        if not root:
             return root
         leftmost = root
         while leftmost.left:
