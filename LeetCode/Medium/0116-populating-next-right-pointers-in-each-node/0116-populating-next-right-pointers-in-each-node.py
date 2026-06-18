@@ -14,9 +14,7 @@ class Solution(object):
         :type root: Node
         :rtype: Node
         """
-        if root is None:
-            return
-        if root.left is None:
+        if root is None or root.left is None:
             return root
         root.left.next = root.right
         if root.next is not None:
