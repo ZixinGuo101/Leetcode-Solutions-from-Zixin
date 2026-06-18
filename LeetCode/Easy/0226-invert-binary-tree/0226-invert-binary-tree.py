@@ -10,13 +10,9 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        self.traverse(root)
+        if root is None:
+            return root
+        root.left = self.invertTree(root.left)
+        root.right = self.invertTree(root.right)
+        root.left, root.right = root.right, root.left
         return root
-    
-    def traverse(self, node):
-        if node is None:
-            return
-        node.left, node.right = node.right, node.left
-        self.traverse(node.left)
-        self.traverse(node.right)
-        
