@@ -10,22 +10,29 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: None Do not return anything, modify root in-place instead.
         """
-        if root is None:
-            return
-        if root.left is None and root.right is None:
-            return root
+        self.merge(root)
+        return
+    
+    def merge(self, node):
+        if node is None:
+            return None
+        lastLeft = self.merge(node.left)
+        lastRight = self.merge(node.right)
+        if lastLeft is None:
+            if lastRight is None:
+                return node
+            else:
+                return lastRight
+        else:
+            temp = node.right
+            node.right = node.left
+            lastLeft.right = temp
+            node.left = None
+            if lastRight is None:
+                return lastLeft
+            else:
+                return lastRight
+                
         
-        self.flatten(root.left)
-        self.flatten(root.right)
 
-        r = root.right
-        root.right = root.left
-        root.left = None
-
-        l = root
-        while l.right:
-            l = l.right
-        l.right = r
-
-        return root
         
