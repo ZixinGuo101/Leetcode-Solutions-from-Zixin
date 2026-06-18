@@ -14,11 +14,15 @@ class Solution(object):
         :type root: Node
         :rtype: Node
         """
-        if root is None or root.left is None:
+        if root is None:
             return root
-        root.left.next = root.right
-        if root.next is not None:
-            root.right.next = root.next.left
-        self.connect(root.left)
-        self.connect(root.right)
+        leftmost = root
+        while leftmost.left:
+            cur = leftmost
+            while cur:
+                cur.left.next = cur.right
+                if cur.next:
+                    cur.right.next = cur.next.left
+                cur = cur.next
+            leftmost = leftmost.left
         return root
