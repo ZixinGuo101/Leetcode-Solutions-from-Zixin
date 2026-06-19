@@ -21,9 +21,9 @@ class Solution(object):
         if pl == pr:
             return cur
         idx = self.findIndex(preorder[pl], inorder, il, ir)
-        print(idx)
-        print("preorder_left:", pl+1, pl+idx-il)
-        print("preorder_right", pl+idx-il+1, pr)
+        # print(idx)
+        # print("preorder_left:", pl+1, pl+idx-il)
+        # print("preorder_right", pl+idx-il+1, pr)
         cur.left = self.build(preorder, pl+1, pl+idx-il, inorder, il, il+idx-1)
         cur.right = self.build(preorder, pl+idx-il+1, pr, inorder, idx+1, ir)
         return cur
