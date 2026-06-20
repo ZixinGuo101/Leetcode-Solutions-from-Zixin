@@ -11,22 +11,19 @@ class Solution(object):
         :type postorder: List[int]
         :rtype: Optional[TreeNode]
         """
-        val_to_idx = {val: idx for idx, val in enumerate(preorder)}
-        self.post_pos = len(postorder) - 1
-
-        def construct(left, right):
-            if left > right:
+        def construct(preorder, postorder, pre_l, pre_r, pst_l, pst_r):
+            if pre_l > pre_r:
                 return None
-            root = TreeNode(preorder[left])
-            self.post_pos -= 1
-            if left == right:
+            root = TreeNode(preorder[pre_l])
+            if pre_l == pre_r:
                 return root
-            idx = val_to_idx[postorder[self.post_pos]]
-            root.right = construct(idx, right)
-            root.left = construct(left+1, idx-1)
+            leftVal = preorder[pre_l+1]
+            idx = postorder.index(leftVal)
+            left = TreeNode(leftVal)
+            root.left = construct(preorder, postorder, pre_l+1, pre_l+idx-pst_l+1, pst_l, idx)
+            root.right = construct(preorder, postorder, pre_l+idx-pst_l+2, pre_r, idx+1, pst_r)
             return root
-
-        return construct(0, len(preorder) - 1)
-
-            
-            
+        
+        n = len(preorder)
+        return construct(preorder, postorder, 0, n-1, 0, n-1)
+        
