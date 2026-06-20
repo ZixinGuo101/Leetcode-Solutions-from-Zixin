@@ -189,6 +189,7 @@
 | [0496-next-greater-element-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
@@ -398,6 +399,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -415,6 +417,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +431,7 @@
 | [0226-invert-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
