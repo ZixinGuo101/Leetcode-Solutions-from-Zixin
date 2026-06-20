@@ -11,19 +11,17 @@ class Solution(object):
         :type postorder: List[int]
         :rtype: Optional[TreeNode]
         """
-        def construct(preorder, postorder, pre_l, pre_r, pst_l, pst_r):
-            if pre_l > pre_r:
+        def build(pre,post):
+            if not pre:
                 return None
-            root = TreeNode(preorder[pre_l])
-            if pre_l == pre_r:
+            root=TreeNode(pre[0])
+            if len(pre)==1:
                 return root
-            leftVal = preorder[pre_l+1]
-            idx = postorder.index(leftVal)
-            left = TreeNode(leftVal)
-            root.left = construct(preorder, postorder, pre_l+1, pre_l+idx-pst_l+1, pst_l, idx)
-            root.right = construct(preorder, postorder, pre_l+idx-pst_l+2, pre_r, idx+1, pst_r)
+            leftroot=pre[1]
+            idx=post.index(leftroot)
+            leftsize=idx+1
+            root.left=build(pre[1:leftsize+1],post[:leftsize])
+            root.right=build(pre[leftsize+1:],post[leftsize:-1])
+
             return root
-        
-        n = len(preorder)
-        return construct(preorder, postorder, 0, n-1, 0, n-1)
-        
+        return build(preorder,postorder)
