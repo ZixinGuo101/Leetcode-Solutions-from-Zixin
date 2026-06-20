@@ -11,16 +11,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        self.count = 0
-        self.res = 0
-        def traverse(root):
-            if root is None:
-                return
-            traverse(root.left)
-            self.count += 1
-            if self.count == k:
-                self.res = root.val
-                return
-            traverse(root.right)
-        traverse(root)
-        return self.res
+        stk = []
+        while True:
+            while root:
+                stk.append(root)
+                root = root.left
+            root = stk.pop()
+            k -= 1
+            if k == 0:
+                return root.val
+            root = root.right
