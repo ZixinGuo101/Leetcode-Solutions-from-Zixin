@@ -10,6 +10,7 @@ class Solution(object):
         :type n: int
         :rtype: List[Optional[TreeNode]]
         """
+        self.memo = {}
         return self.build(1, n)
     
     def build(self, lo, hi):
@@ -17,6 +18,8 @@ class Solution(object):
         if lo > hi:
             res.append(None)
             return res
+        if (lo, hi) in self.memo:
+            return self.memo[(lo, hi)]
         for i in range(lo, hi+1):
             leftList = self.build(lo, i-1)
             rightList = self.build(i+1, hi)
@@ -26,4 +29,5 @@ class Solution(object):
                     root.left = left
                     root.right = right
                     res.append(root)
+        self.memo[(lo, hi)] = res
         return res
