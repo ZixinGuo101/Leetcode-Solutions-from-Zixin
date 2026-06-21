@@ -12,8 +12,7 @@ class Solution(object):
         :rtype: Optional[TreeNode]
         """
         if root is None:
-            node = TreeNode(val)
-            return node
+            return TreeNode(val)
         if val < root.val:
             root.left = self.insertIntoBST(root.left, val)
         else:
