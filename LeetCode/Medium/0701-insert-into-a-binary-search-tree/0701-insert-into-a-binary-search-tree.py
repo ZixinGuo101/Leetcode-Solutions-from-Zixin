@@ -11,19 +11,11 @@ class Solution(object):
         :type val: int
         :rtype: Optional[TreeNode]
         """
-        node = TreeNode(val)
-        if not root:
+        if root is None:
+            node = TreeNode(val)
             return node
-        p = root
-        while True:
-            if val < p.val:
-                if not p.left:
-                    p.left = node
-                    break
-                p = p.left
-            else:
-                if not p.right:
-                    p.right = node
-                    break
-                p = p.right
+        if val < root.val:
+            root.left = self.insertIntoBST(root.left, val)
+        else:
+            root.right = self.insertIntoBST(root.right, val)
         return root
