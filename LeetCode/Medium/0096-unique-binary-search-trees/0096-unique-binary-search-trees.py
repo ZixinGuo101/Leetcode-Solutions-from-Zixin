@@ -6,15 +6,14 @@ class Solution(object):
         """
         if n == 1 or n == 2:
             return n
-        counts = [1] * (n+1)
-        counts[2] = 2
-        for idx in range(3, n+1):
-            times = idx // 2
-            idxSum = 0
-            for i in range(times):
-                idxSum += counts[i] * counts[idx-i-1]
-            idxSum = idxSum * 2
-            if idx % 2 == 1:
-                idxSum += counts[times] ** 2
-            counts[idx] = idxSum
+        counts = [0] * (n+1)
+        counts[0] = 1
+        counts[1] = 1
+        for nodes in range(2, n+1):
+            pos = nodes // 2
+            for root in range(1, pos+1):
+                counts[nodes] += counts[root-1] * counts[nodes-root]
+            counts[nodes] *= 2
+            if nodes % 2 == 1:
+                counts[nodes] += counts[pos] ** 2
         return counts[n]
