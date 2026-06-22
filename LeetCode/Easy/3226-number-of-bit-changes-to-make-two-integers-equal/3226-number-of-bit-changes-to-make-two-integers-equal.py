@@ -10,7 +10,6 @@ class Solution(object):
         s = n ^ k
         res = 0
         while s:
-            if s & 1:
-                res += 1
-            s = s >> 1
+            s = s & (s - 1)
+            res += 1
         return res
