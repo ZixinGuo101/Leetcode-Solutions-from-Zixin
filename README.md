@@ -529,6 +529,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3827-count-monobit-integers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -662,6 +663,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3827-count-monobit-integers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
