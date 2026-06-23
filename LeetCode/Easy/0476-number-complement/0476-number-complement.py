@@ -1,3 +1,6 @@
 class Solution:
     def findComplement(self, num: int) -> int:
-        return ((1 << num.bit_length()) - 1) ^ num
+        mask = 1
+        while mask < num:
+            mask = (mask << 1) | 1
+        return mask ^ num
