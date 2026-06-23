@@ -548,6 +548,7 @@
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3827-count-monobit-integers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
