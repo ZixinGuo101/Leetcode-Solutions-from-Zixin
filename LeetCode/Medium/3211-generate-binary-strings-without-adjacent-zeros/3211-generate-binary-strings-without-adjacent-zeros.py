@@ -1,27 +1,8 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
-        self.res = []
-        self.path = 0
-        self.l = n
-        self.build(n)
-        return self.res
-
-    def build(self, n):
-        if n == 1:
-            if self.path & 1 or n == self.l:
-                self.path <<= 1
-                self.res.append(format(self.path, 'b').zfill(self.l))
-                self.path >>= 1
-            self.path = (self.path << 1) | 1
-            self.res.append(format(self.path, 'b').zfill(self.l))
-            self.path >>= 1
-            return
-        
-        if self.path & 1 or n == self.l:
-            self.path <<= 1
-            self.build(n-1)
-            self.path >>= 1
-        self.path = (self.path << 1) | 1
-        self.build(n-1)
-        self.path >>= 1
-        return
+        res = []
+        mask = (1 << n) - 1
+        for num in range(1 << n):
+            if num & (num >> 1) == 0:
+                res.append(format(num ^ mask, 'b').zfill(n))
+        return res
