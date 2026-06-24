@@ -4,5 +4,5 @@ class Solution:
         mask = (1 << n) - 1
         for num in range(1 << n):
             if num & (num >> 1) == 0:
-                res.append(format(num ^ mask, 'b').zfill(n))
+                res.append(f"{num ^ mask:0{n}b}")
         return res
