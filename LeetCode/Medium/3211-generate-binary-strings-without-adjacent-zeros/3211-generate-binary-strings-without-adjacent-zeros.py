@@ -1,8 +1,20 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
-        res = []
-        mask = (1 << n) - 1
-        for num in range(1 << n):
-            if num & (num >> 1) == 0:
-                res.append(f"{num ^ mask:0{n}b}")
-        return res
+        self.res = []
+        self.path = 0
+    
+        def build(i: int) -> None:
+            if i == n:
+                self.res.append(f"{self.path:0{n}b}")
+                return
+            if i == 0 or self.path & 1:
+                self.path <<= 1
+                build(i+1)
+                self.path >>= 1
+            self.path = (self.path << 1) | 1
+            build(i+1)
+            self.path >>= 1
+            return
+        
+        build(0)
+        return self.res
