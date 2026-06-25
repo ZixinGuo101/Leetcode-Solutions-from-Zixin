@@ -9,7 +9,8 @@ class Solution:
             if nums[i] == maxNum:
                 if nums[i] == nums[i-1]:
                     cnt += 1
-                    res = max(res, cnt)
+                    if cnt > res:
+                        res = cnt
                 else:
                     cnt = 1
             if nums[i] > maxNum:
