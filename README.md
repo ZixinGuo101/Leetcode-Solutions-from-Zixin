@@ -86,6 +86,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2527-find-xor-beauty-of-array/) | Medium |
@@ -569,6 +570,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2429-minimize-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2429-minimize-xor/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2527-find-xor-beauty-of-array/) | Medium |
@@ -765,4 +767,8 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 <!---LeetCode Topics End-->
