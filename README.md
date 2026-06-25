@@ -96,6 +96,7 @@
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2917-find-the-k-or-of-an-array/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
@@ -578,6 +579,7 @@
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2917-find-the-k-or-of-an-array/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
@@ -637,6 +639,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2429-minimize-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2429-minimize-xor/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
