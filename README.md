@@ -83,6 +83,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -558,6 +559,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
+| [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
 | [2429-minimize-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2429-minimize-xor/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2527-find-xor-beauty-of-array/) | Medium |
@@ -662,6 +664,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2527-find-xor-beauty-of-array/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
