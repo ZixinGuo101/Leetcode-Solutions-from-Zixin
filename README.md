@@ -101,6 +101,7 @@
 | [2917-find-the-k-or-of-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2917-find-the-k-or-of-an-array/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -134,6 +135,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2540-minimum-common-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,6 +585,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2917-find-the-k-or-of-an-array/) | Easy |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
@@ -777,4 +780,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 <!---LeetCode Topics End-->
