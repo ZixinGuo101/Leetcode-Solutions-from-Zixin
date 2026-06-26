@@ -7,20 +7,13 @@
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         self.res = []
-        def bfs(root: Optional[TreeNode]) -> None:
+        def dfs(root: Optional[TreeNode], layer: int):
             if root is None:
                 return
-            cur = [root]
-            while cur:
-                nxt = []
-                sz = len(cur)
-                for node in cur:
-                    if node.left:
-                        nxt.append(node.left)
-                    if node.right:
-                        nxt.append(node.right)
-                self.res.append(cur[-1].val)
-                cur = nxt
+            if len(self.res) < layer:
+                self.res.append(root.val)
+            dfs(root.right, layer + 1)
+            dfs(root.left, layer + 1)
             return
-        bfs(root)
+        dfs(root, 1)
         return self.res
