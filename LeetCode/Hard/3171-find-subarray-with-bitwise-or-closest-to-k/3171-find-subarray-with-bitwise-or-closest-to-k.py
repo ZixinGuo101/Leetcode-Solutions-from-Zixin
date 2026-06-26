@@ -4,7 +4,7 @@ class Solution:
         for r, num in enumerate(nums):
             res = min(res, abs(k - num))
             for l in range(r-1, -1, -1):
-                if nums[l] | num == nums[l]: # logtrick
+                if nums[l] | num == nums[l] or nums[l+1] > k: # logtrick
                     break
                 nums[l] |= num
                 res = min(res, abs(k - nums[l]))
