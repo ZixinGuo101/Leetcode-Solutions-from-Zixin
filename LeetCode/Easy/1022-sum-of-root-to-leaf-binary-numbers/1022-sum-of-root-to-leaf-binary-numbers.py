@@ -7,19 +7,17 @@
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
         self.res = 0
-        self.path = 0
 
-        def traverse(root):
+        def traverse(root, n):
             if root is None:
                 return
-            self.path = (self.path << 1) + root.val
+            n = (n << 1) + root.val
             if root.left is None and root.right is None:
-                self.res += self.path
+                self.res += n
             else:
-                traverse(root.left)
-                traverse(root.right)
-            self.path >>= 1
+                traverse(root.left, n)
+                traverse(root.right, n)
             return
         
-        traverse(root)
+        traverse(root, 0)
         return self.res
