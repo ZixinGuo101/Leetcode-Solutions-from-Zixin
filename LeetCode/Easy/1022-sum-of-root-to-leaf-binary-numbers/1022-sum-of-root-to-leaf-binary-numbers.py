@@ -14,9 +14,9 @@ class Solution:
             n = (n << 1) + root.val
             if root.left is None and root.right is None:
                 self.res += n
-            else:
-                traverse(root.left, n)
-                traverse(root.right, n)
+                return
+            traverse(root.left, n)
+            traverse(root.right, n)
             return
         
         traverse(root, 0)
