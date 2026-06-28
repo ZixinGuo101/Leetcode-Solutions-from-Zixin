@@ -451,6 +451,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +477,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +510,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,6 +521,7 @@
 | [0226-invert-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -586,6 +590,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
