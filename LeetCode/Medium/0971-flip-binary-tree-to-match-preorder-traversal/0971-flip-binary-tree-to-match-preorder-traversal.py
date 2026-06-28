@@ -15,20 +15,12 @@ class Solution:
             if root.val != voyage[self.idx]:
                 self.indi = False
                 return
-            '''
-            if root.left is None and root.right is None:
-                self.idx += 1
-                return
-            '''
             if root.left and root.left.val != voyage[self.idx + 1]:
-                if not root.right or root.right.val != voyage[self.idx + 1]:
-                    self.indi = False
-                    return
-                else:
-                    res.append(root.val)
-                    root.left, root.right = root.right, root.left
+                res.append(root.val)
+                root.left, root.right = root.right, root.left
             self.idx += 1
             flip(root.left)
             flip(root.right)
+            return
         flip(root)
         return res if self.indi else [-1]
