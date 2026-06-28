@@ -440,6 +440,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -478,6 +479,7 @@
 | [0388-longest-absolute-file-path](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0388-longest-absolute-file-path/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -515,6 +517,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
@@ -543,6 +546,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0513-find-bottom-left-tree-value/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
