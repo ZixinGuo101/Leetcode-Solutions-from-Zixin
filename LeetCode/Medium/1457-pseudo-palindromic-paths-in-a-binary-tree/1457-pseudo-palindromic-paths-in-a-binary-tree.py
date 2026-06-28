@@ -7,20 +7,13 @@
 class Solution:
     def pseudoPalindromicPaths (self, root: Optional[TreeNode]) -> int:
         self.res = 0
-        self.path = 0
         
-        def dfs(root: Optional[TreeNode]) -> None:
+        def dfs(root: Optional[TreeNode], path: int) -> int:
             if root is None:
-                return
-            self.path ^= (1 << root.val)
+                return 0
+            path ^= (1 << root.val)
             if root.left is None and root.right is None:
-                if self.path & (self.path - 1) == 0:
-                    self.res += 1
-            else:
-                dfs(root.left)
-                dfs(root.right)
-            self.path ^= (1 << root.val)
-            return
+                return 1 if not path & (path - 1) else 0
+            return dfs(root.left, path) + dfs(root.right, path)
         
-        dfs(root)
-        return self.res
+        return dfs(root, 0)
