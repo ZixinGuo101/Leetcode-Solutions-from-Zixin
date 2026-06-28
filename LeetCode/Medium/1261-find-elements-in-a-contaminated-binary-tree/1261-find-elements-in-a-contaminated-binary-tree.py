@@ -7,19 +7,31 @@
 class FindElements:
 
     def __init__(self, root: Optional[TreeNode]):
-        self.s = set()
         def build(root, v):
             if root is None:
                 return
             root.val = v
-            self.s.add(v)
-            build(root.left, 2 * v + 1)
-            build(root.right, 2 * v + 2)
+            build(root.left, 2*v+1)
+            build(root.right, 2*v+2)
             return
         build(root, 0)
+        self.root = root
 
     def find(self, target: int) -> bool:
-        return target in self.s
+        path = format(target+1, 'b')
+        self.idx = 0
+        def ft(root):
+            if root is None or self.idx > len(path) - 1:
+                return False
+            if self.idx == len(path) - 1:
+                return True
+            self.idx += 1
+            if path[self.idx] == '1':
+                return ft(root.right)
+            else:
+                return ft(root.left)
+        return ft(self.root)
+
 
 
 # Your FindElements object will be instantiated and called as such:
