@@ -18,19 +18,14 @@ class FindElements:
         self.root = root
 
     def find(self, target: int) -> bool:
-        path = format(target+1, 'b')
-        self.idx = 0
-        def ft(root):
-            if root is None or self.idx > len(path) - 1:
+        target += 1
+        cur = self.root
+        for i in range(target.bit_length() - 2, -1, -1):
+            bit = (target >> i) & 1
+            cur = cur.right if bit else cur.left
+            if cur is None:
                 return False
-            if self.idx == len(path) - 1:
-                return True
-            self.idx += 1
-            if path[self.idx] == '1':
-                return ft(root.right)
-            else:
-                return ft(root.left)
-        return ft(self.root)
+        return True
 
 
 
