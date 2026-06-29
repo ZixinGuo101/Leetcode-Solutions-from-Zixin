@@ -6,49 +6,26 @@
 #         self.right = right
 class Solution:
     def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
-        start_path = []
-        res = []
-        self.start = TreeNode()
-        self.is_find_start = False
-        self.is_find_dest = False
-        def findStart(root):
-            if root is None or self.is_find_start:
+        self.start_path = None
+        self.dest_path = None
+        path = []
+
+        def dfs(root):
+            if root is None:
                 return
             if root.val == startValue:
-                self.is_find_start = True
-                self.start = root
-                return
-            start_path.append(root)
-            findStart(root.left)
-            findStart(root.right)
-            if not self.is_find_start:
-                start_path.pop()
-            return
-        def findDest(root):
-            if root is None:
-                return False
+                self.start_path = path.copy()
             if root.val == destValue:
-                self.is_find_dest = True
-                return True
-            res.append('L')
-            if not findDest(root.left):
-                res.pop()
-            else:
-                return True
-            res.append('R')
-            if not findDest(root.right):
-                res.pop()
-            else:
-                return True
-            return False
+                self.dest_path = path.copy()
+            path.append('L')
+            dfs(root.left)
+            path[-1] = 'R'
+            dfs(root.right)
+            path.pop()
+            return
         
-        findStart(root)
-        findDest(self.start)
-        if res:
-            return ''.join(res)
-        # print(start_path)
-        for i in range(len(start_path)-1, -1, -1):
-            res.append('U')
-            findDest(start_path[i])
-            if self.is_find_dest:
-                return ''.join(res)
+        dfs(root)
+        i = 0
+        while i < min(len(self.start_path), len(self.dest_path)) and self.start_path[i] == self.dest_path[i]:
+            i += 1
+        return 'U' * (len(self.start_path) - i) + ''.join(self.dest_path[i:])
