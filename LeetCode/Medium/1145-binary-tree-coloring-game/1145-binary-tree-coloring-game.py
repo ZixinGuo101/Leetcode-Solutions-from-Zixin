@@ -26,4 +26,5 @@ class Solution:
         x_left = count(self.x_node.left)
         x_right = count(self.x_node.right)
         r = n - (x_left + x_right + 1)
-        return n > 2 * (x_left + x_right + 1) or max(x_right, x_left) > (min(x_right, x_left) + 1 + r)
+        return r > n // 2 or x_left > n // 2 or x_right > n // 2
+        # return n > 2 * (x_left + x_right + 1) or max(x_right, x_left) > (min(x_right, x_left) + 1 + r)
