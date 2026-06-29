@@ -6,13 +6,27 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if root is None:
-            return False
-        res = False
-        if root.val == subRoot.val:
-            res = self.isSame(root, subRoot)
-        return res or self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+        sub_h = self.getHeight(subRoot)
 
+        def dfs(root):
+            if root is None:
+                return 0, False
+            lh, l_is_find = dfs(root.left)
+            rh, r_is_find = dfs(root.right)
+            if l_is_find or r_is_find:
+                return 0, True
+            h = max(lh, rh) + 1
+            return h, h == sub_h and self.isSame(root, subRoot)
+        
+        return dfs(root)[1]
+    
+    def getHeight(self, root):
+        if root is None:
+            return 0
+        lh = self.getHeight(root.left)
+        rh = self.getHeight(root.right)
+        return max(lh, rh) + 1
+    
     def isSame(self, r1, r2):
         if r1 is None or r2 is None:
             return r1 is r2
