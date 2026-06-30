@@ -11,12 +11,10 @@ class Solution:
         dp = [[] for _ in range(n+1)]
         dp[1] = [TreeNode(0)]
         for i in range(3, n+1, 2):
-            for j in range(1, i):
+            for j in range(1, i, 2):
                 k = i - j - 1
                 for left in dp[j]:
                     for right in dp[k]:
-                        root = TreeNode(0)
-                        root.left = left
-                        root.right = right
+                        root = TreeNode(0, left, right)
                         dp[i].append(root)
         return dp[n]
