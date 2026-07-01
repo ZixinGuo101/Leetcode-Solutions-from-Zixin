@@ -66,6 +66,7 @@
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
 | [1094-car-pooling](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -215,6 +216,7 @@
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
 | [0923-3sum-with-multiplicity](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -469,6 +471,7 @@
 | [0998-maximum-binary-tree-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0998-maximum-binary-tree-ii/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1104-path-in-zigzag-labelled-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1145-binary-tree-coloring-game/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -510,6 +513,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1145-binary-tree-coloring-game/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -561,6 +565,7 @@
 | [0998-maximum-binary-tree-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0998-maximum-binary-tree-ii/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1104-path-in-zigzag-labelled-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1145-binary-tree-coloring-game/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
