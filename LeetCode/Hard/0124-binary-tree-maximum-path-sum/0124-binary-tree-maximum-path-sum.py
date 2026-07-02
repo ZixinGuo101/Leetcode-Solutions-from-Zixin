@@ -10,10 +10,10 @@ class Solution:
         def findValue(root):
             if root is None:
                 return 0
-            leftValue = findValue(root.left)
-            rightValue = findValue(root.right)
-            maxValue = max(root.val, root.val+leftValue, root.val+rightValue)
-            self.res = max(self.res, maxValue, root.val+leftValue+rightValue)
+            leftValue = max(0, findValue(root.left))
+            rightValue = max(0, findValue(root.right))
+            maxValue = root.val + max(leftValue, rightValue)
+            self.res = max(self.res, root.val+leftValue+rightValue)
             return maxValue
         findValue(root)
         return self.res
