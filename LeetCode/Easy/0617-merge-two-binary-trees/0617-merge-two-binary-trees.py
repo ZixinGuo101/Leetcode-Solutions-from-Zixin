@@ -10,8 +10,8 @@ class Solution:
             return root2
         if root2 is None:
             return root1
-        cur = TreeNode(root1.val + root2.val)
-        cur.left = self.mergeTrees(root1.left, root2.left)
-        cur.right = self.mergeTrees(root1.right, root2.right)
-        return cur
+        root2.val += root1.val
+        root2.left = self.mergeTrees(root1.left, root2.left)
+        root2.right = self.mergeTrees(root1.right, root2.right)
+        return root2
         
