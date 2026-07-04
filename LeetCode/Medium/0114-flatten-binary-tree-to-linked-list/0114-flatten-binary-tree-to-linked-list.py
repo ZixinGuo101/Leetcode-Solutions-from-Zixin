@@ -1,31 +1,28 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
-    def flatten(self, root):
+class Solution:
+    def flatten(self, root: Optional[TreeNode]) -> None:
         """
-        :type root: Optional[TreeNode]
-        :rtype: None Do not return anything, modify root in-place instead.
+        Do not return anything, modify root in-place instead.
         """
-        self.merge(root)
-    
-    def merge(self, node):
-        if node is None:
-            return None
-        left, right = node.left, node.right
-        tail = node
-        if left:
-            tail = self.merge(left)
-            node.right = left
-            node.left = None
-        if right:
-            tail.right = right
-            tail = self.merge(right)
-        return tail
-                
-        
 
+        def dfs(root):
+            if root is None:
+                return None
+            l = dfs(root.left)
+            r = dfs(root.right)
+            if l is not None:
+                root.right, l.right = root.left, root.right
+                root.left = None
+                return l if r is None else r
+            return root if r is None else r
+        
+        dfs(root)
+            
+
+            
         
