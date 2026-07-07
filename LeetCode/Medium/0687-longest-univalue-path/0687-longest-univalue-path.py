@@ -8,19 +8,17 @@ class Solution:
     def longestUnivaluePath(self, root: Optional[TreeNode]) -> int:
         self.res = 0
         def dfs(root):
-            if root is None:
+            if not root:
                 return 0
             lv = dfs(root.left)
             rv = dfs(root.right)
-            cur = path = 0
+            l_length = r_length = 0
             if root.left and root.left.val == root.val:
-                cur += lv + 1
-                path = max(path, lv + 1)
+                l_length = lv + 1
             if root.right and root.right.val == root.val:
-                cur += rv + 1
-                path = max(path, rv + 1)
-            self.res = max(self.res, cur)
-            return path
+                r_length = rv + 1
+            self.res = max(self.res, l_length + r_length)
+            return max(l_length, r_length)
         
         dfs(root)
         return self.res
