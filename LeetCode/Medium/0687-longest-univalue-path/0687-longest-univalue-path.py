@@ -6,20 +6,33 @@
 #         self.right = right
 class Solution:
     def longestUnivaluePath(self, root: Optional[TreeNode]) -> int:
-        self.res = 0
-        def dfs(root):
-            if not root:
+        self.max_len = 0
+        '''
+        cur_inc and cur_dec represents 左右子树中能和当前节点接上的相同值
+        recursion 的三部曲：
+        signature : 以当前节点为起点，向子树延伸的相同值路径的最大边数。
+        Sub_Problem : 左右孩子的最大值
+        Recursion Step : 左右孩子的最大值 + 1
+        '''
+        def dfs(node):
+            if not node:
                 return 0
-            lv = dfs(root.left)
-            rv = dfs(root.right)
-            l_length = r_length = 0
-            if root.left and root.left.val == root.val:
-                l_length = lv + 1
-            if root.right and root.right.val == root.val:
-                r_length = rv + 1
-            self.res = max(self.res, l_length + r_length)
-            return max(l_length, r_length)
+
+            left_length = dfs(node.left)
+            right_length = dfs(node.right)
+
+            arrow_left = 0
+            arrow_right = 0
+
+            if node.left and node.val == node.left.val:
+                arrow_left = left_length + 1
+
+            if node.right and node.val == node.right.val:
+                arrow_right = right_length + 1
+            
+            self.max_len = max(arrow_left + arrow_right, self.max_len)
+            return max(arrow_left,arrow_right)
         
         dfs(root)
-        return self.res
-            
+        return self.max_len
+        
