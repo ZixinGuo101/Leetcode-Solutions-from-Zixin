@@ -6,14 +6,13 @@ class Solution:
         self.res = 0
         
         def dfs(root):
-            mx1 = mx2 = 0
+            mx = 0
             for child in self.graph[root]:
                 n = dfs(child)
                 if s[root] != s[child]:
-                    if n > mx2:
-                        mx1, mx2 = max(mx1, n), min(mx1, n)
-            self.res = max(self.res, 1 + mx1 + mx2)
-            return 1 + max(mx1, mx2)
+                    self.res = max(self.res, mx + n + 1)
+                    mx = max(mx, n)
+            return 1 + mx
         
-        dfs(0)
-        return self.res
+        
+        return max(dfs(0), self.res)
