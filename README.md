@@ -496,6 +496,7 @@
 | [0998-maximum-binary-tree-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0998-maximum-binary-tree-ii/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1104-path-in-zigzag-labelled-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1145-binary-tree-coloring-game/) | Medium |
@@ -565,6 +566,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1145-binary-tree-coloring-game/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -641,6 +643,7 @@
 | [0998-maximum-binary-tree-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0998-maximum-binary-tree-ii/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1104-path-in-zigzag-labelled-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1145-binary-tree-coloring-game/) | Medium |
