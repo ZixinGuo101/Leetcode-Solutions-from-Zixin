@@ -1,26 +1,14 @@
-class Solution(object):
-    def getAverages(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
-        res = [-1] * len(nums)
-        if len(nums) < (2*k+1):
+class Solution:
+    def getAverages(self, nums: List[int], k: int) -> List[int]:
+        n = len(nums)
+        res = [-1] * n
+        if n < (2 * k + 1):
             return res
-        
-        count = 0
-        for right, num in enumerate(nums):
-            count += num
-
-            left = right - 2*k
-            if left < 0:
+        total = 0
+        for r in range(n):
+            total += nums[r]
+            if r - 2 * k < 0:
                 continue
-            
-            res[right-k] = int(count//(2*k+1))
-
-            count -= nums[left]
-            left += 1
-        
+            res[r - k] = total // (2 * k + 1)
+            total -= nums[r - 2 * k]
         return res
-        
