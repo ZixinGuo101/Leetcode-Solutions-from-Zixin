@@ -18,5 +18,5 @@ class Solution:
                     q.append(cur.left)
                 if cur.right:
                     q.append(cur.right)
-            res.append(float(total) / sz)
+            res.append(total / sz)
         return res
