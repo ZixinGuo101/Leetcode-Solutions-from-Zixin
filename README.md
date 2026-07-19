@@ -148,6 +148,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -296,6 +297,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
@@ -383,6 +385,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0220-contains-duplicate-iii/) | Hard |
 | [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
@@ -727,6 +730,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
@@ -757,6 +761,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
