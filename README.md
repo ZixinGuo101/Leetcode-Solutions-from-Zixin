@@ -160,6 +160,7 @@
 | [0707-design-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+| [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
@@ -497,6 +498,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0897-increasing-order-search-tree/) | Easy |
+| [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -658,6 +660,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0897-increasing-order-search-tree/) | Easy |
+| [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -710,6 +713,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
