@@ -495,6 +495,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0897-increasing-order-search-tree/) | Easy |
@@ -577,6 +578,7 @@
 | [0687-longest-univalue-path](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0951-flip-equivalent-binary-trees/) | Medium |
@@ -657,6 +659,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0897-increasing-order-search-tree/) | Easy |
