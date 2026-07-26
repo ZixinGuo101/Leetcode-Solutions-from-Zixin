@@ -1,18 +1,16 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        visited = [False] * len(graph)
-        colored = [1] * len(graph)
-        def dfs(node):
-            visited[node] = True
+        colored = [-1] * len(graph)
+        def dfs(node, c):
+            colored[node] = c
             for neighbor in graph[node]:
-                if not visited[neighbor]:
-                    colored[neighbor] = colored[node] ^ 1
-                    if not dfs(neighbor):
+                if colored[neighbor] == -1:
+                    if not dfs(neighbor, colored[node] ^ 1):
                         return False
                 elif not colored[neighbor] ^ colored[node]:
                         return False
             return True
         for i in range(len(graph)):
-            if not dfs(i):
+            if colored[i] == -1 and not dfs(i, 0):
                 return False
         return True
