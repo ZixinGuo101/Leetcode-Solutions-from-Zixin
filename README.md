@@ -578,6 +578,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -719,6 +720,7 @@
 | [0623-add-one-row-to-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
@@ -1039,6 +1041,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Topological Sort
@@ -1049,4 +1052,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0341-flatten-nested-list-iterator/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
