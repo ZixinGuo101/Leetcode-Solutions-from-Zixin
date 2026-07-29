@@ -6,9 +6,9 @@ class Solution:
             graph[pre[1]].append(pre[0])
             in_degree[pre[0]] += 1
         topo_order = []
-        q = deque(i for i, d in enumerate(in_degree) if d == 0)
+        q = [i for i, d in enumerate(in_degree) if d == 0]
         while q:
-            cur = q.popleft()
+            cur = q.pop()
             topo_order.append(cur)
             for nxt in graph[cur]:
                 in_degree[nxt] -= 1
