@@ -83,6 +83,7 @@
 | [2049-count-nodes-with-the-highest-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -231,6 +232,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -366,6 +368,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -1053,12 +1056,14 @@
 | [0547-number-of-provinces](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0210-course-schedule-ii/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
