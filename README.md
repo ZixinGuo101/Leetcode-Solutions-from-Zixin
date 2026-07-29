@@ -89,6 +89,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2317-maximum-xor-after-operations/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2401-longest-nice-subarray/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
@@ -193,6 +194,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [2392-build-a-matrix-with-conditions](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -1058,6 +1060,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2392-build-a-matrix-with-conditions](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -1065,6 +1068,7 @@
 | [0210-course-schedule-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0210-course-schedule-ii/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2392-build-a-matrix-with-conditions](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
