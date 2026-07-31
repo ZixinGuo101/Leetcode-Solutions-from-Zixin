@@ -33,6 +33,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
@@ -154,6 +155,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0341-flatten-nested-list-iterator/) | Medium |
 | [0460-lfu-cache](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
@@ -759,6 +761,7 @@
 | [0191-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
@@ -1046,6 +1049,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -1079,4 +1083,8 @@
 | [0547-number-of-provinces](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
