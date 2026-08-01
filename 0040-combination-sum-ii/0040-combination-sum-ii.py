@@ -14,6 +14,8 @@ class Solution:
             for i in range(start, n):
                 if i > start and candidates[i] == candidates[i - 1]:
                     continue
+                if candidates[i] > target:
+                    break
                 combination.append(candidates[i])
                 self.total += candidates[i]
                 backtrack(i + 1)
