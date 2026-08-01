@@ -1041,6 +1041,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0078-subsets/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
