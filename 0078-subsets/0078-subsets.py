@@ -5,10 +5,10 @@ class Solution:
         n = len(nums)
         def backtrack(i):
             res.append(subset.copy())
-            for c in range(i+1, n):
+            for c in range(i, n):
                 subset.append(nums[c])
-                backtrack(c)
+                backtrack(c + 1)
                 subset.pop()
-        backtrack(-1)
+        backtrack(0)
         return res    
         
