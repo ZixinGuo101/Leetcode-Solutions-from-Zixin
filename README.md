@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -810,6 +811,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0078-subsets/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
@@ -1039,6 +1041,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0078-subsets/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
