@@ -7,7 +7,7 @@ class Solution:
         n = len(candidates)
         def backtrack(start):
             if self.total == target:
-                res.append(combination.copy())
+                res.append(combination[:])
                 return
             if self.total > target:
                 return
