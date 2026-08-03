@@ -3,9 +3,15 @@ class NumArray:
     def __init__(self, nums: List[int]):
         self.n = len(nums) + 1
         self.tree = [0] * self.n
-        self.nums = [0] * (self.n - 1)
-        for i, num in enumerate(nums):
-            self.update(i, num)
+        for i in range(1, self.n):
+            self.tree[i] += nums[i - 1]
+            j = i + self.lowbit(i)
+            if j < self.n:
+                self.tree[j] += self.tree[i]
+        print(self.tree)
+        self.nums = nums[:]
+        # for i, num in enumerate(nums):
+            # self.update(i, num)
     
     def lowbit(self, index: int) -> int:
         return index & (-index)
