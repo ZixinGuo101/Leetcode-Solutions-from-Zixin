@@ -112,6 +112,7 @@
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2917-find-the-k-or-of-an-array/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
@@ -979,6 +980,7 @@
 | [1094-car-pooling](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1067,6 +1069,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -1104,6 +1107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
