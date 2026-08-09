@@ -170,6 +170,7 @@
 | [0460-lfu-cache](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0622-design-circular-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
+| [0677-map-sum-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0677-map-sum-pairs/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0707-design-linked-list](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0895-maximum-frequency-stack/) | Hard |
@@ -233,6 +234,7 @@
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0648-replace-words](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0648-replace-words/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
+| [0677-map-sum-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0677-map-sum-pairs/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -373,6 +375,7 @@
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0648-replace-words](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0648-replace-words/) | Medium |
+| [0677-map-sum-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0677-map-sum-pairs/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
@@ -1022,6 +1025,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0386-lexicographical-numbers/) | Medium |
 | [0648-replace-words](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0648-replace-words/) | Medium |
+| [0677-map-sum-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0677-map-sum-pairs/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
