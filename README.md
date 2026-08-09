@@ -101,6 +101,7 @@
 | [2392-build-a-matrix-with-conditions](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2401-longest-nice-subarray/) | Medium |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -389,6 +390,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2564-substring-xor-queries](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2564-substring-xor-queries/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1013,6 +1015,7 @@
 | ------- | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0923-3sum-with-multiplicity/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1022,6 +1025,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
