@@ -623,6 +623,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0951-flip-equivalent-binary-trees/) | Medium |
@@ -771,6 +772,7 @@
 | [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
 | [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
@@ -1119,6 +1121,7 @@
 | [0547-number-of-provinces](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -1144,6 +1147,7 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1193,4 +1197,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
