@@ -1,32 +1,19 @@
 class Solution:
-    def minCost(self, grid: List[List[int]]) -> int:
-        self.row = len(grid)
-        self.col = len(grid[0])
-        cost = [[float('inf')] * self.col for _ in range(self.row)]
-        cost[0][0] = 0
-        q = deque([(0, 0)]) # row, col
-        visited = [[False] * self.col for _ in range(self.row)]
-        while q:
-            r, c = q.popleft()
-            if visited[r][c]:
-                continue
-            visited[r][c] = True
-            for nr, nc, d in self.neighbor(r, c):
-                new_cost = cost[r][c] + 1 if d != grid[r][c] else cost[r][c]
-                if new_cost < cost[nr][nc]:
-                    cost[nr][nc] = new_cost
-                    if d == grid[r][c]:
-                        q.appendleft((nr, nc))
-                    else:
-                        q.append((nr, nc))
-        return cost[self.row - 1][self.col - 1]
-    
-    def neighbor(self, r, c):
-        direction = [[0, 1], [0, -1], [1, 0], [-1, 0]]
-        ans = []
-        for i, d in enumerate(direction):
-            nr = r + d[0]
-            nc = c + d[1]
-            if nr >= 0 and nr < self.row and nc >= 0 and nc < self.col:
-                ans.append((nr, nc, i + 1))
-        return ans
+    def minCost(self, A):
+        n, m, inf, k = len(A), len(A[0]), 10**9, 0
+        dp = [[inf] * m for i in range(n)]
+        dirt = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+        bfs = []
+
+        def dfs(x, y):
+            if not (0 <= x < n and 0 <= y < m and dp[x][y] == inf): return
+            dp[x][y] = k
+            bfs.append([x, y])
+            dfs(x + dirt[A[x][y] - 1][0], y + dirt[A[x][y] - 1][1])
+
+        dfs(0, 0)
+        while bfs:
+            k += 1
+            bfs, bfs2 = [], bfs
+            [dfs(x + i, y + j) for x, y in bfs2 for i, j in dirt]
+        return dp[-1][-1]
