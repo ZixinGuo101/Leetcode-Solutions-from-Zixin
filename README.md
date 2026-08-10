@@ -86,6 +86,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
@@ -1121,6 +1122,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2392-build-a-matrix-with-conditions](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
@@ -1143,6 +1145,7 @@
 | [0547-number-of-provinces](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -1174,4 +1177,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
