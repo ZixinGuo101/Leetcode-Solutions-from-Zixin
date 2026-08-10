@@ -4,24 +4,29 @@ class Solution:
         self.col = len(grid[0])
         cost = [[float('inf')] * self.col for _ in range(self.row)]
         cost[0][0] = 0
-        q = [(0, 0, 0)] # cost, row, col
+        q = deque([(0, 0)]) # row, col
+        visited = [[False] * self.col for _ in range(self.row)]
         while q:
-            cur_cost, r, c = heapq.heappop(q)
-            if cost[r][c] < cur_cost:
+            r, c = q.popleft()
+            if visited[r][c]:
                 continue
-            for nxt_r, nxt_c, d in self.neighbor(r, c):
-                nxt_cost = cur_cost + 1 if d != grid[r][c] else cur_cost
-                if cost[nxt_r][nxt_c] > nxt_cost:
-                    cost[nxt_r][nxt_c] = nxt_cost
-                    heapq.heappush(q, (nxt_cost, nxt_r, nxt_c))
+            visited[r][c] = True
+            for nr, nc, d in self.neighbor(r, c):
+                new_cost = cost[r][c] + 1 if d != grid[r][c] else cost[r][c]
+                if new_cost < cost[nr][nc]:
+                    cost[nr][nc] = new_cost
+                    if d == grid[r][c]:
+                        q.appendleft((nr, nc))
+                    else:
+                        q.append((nr, nc))
         return cost[self.row - 1][self.col - 1]
-
-    def neighbor(self, r: int, c: int) -> List[int]:
-        nei = []
+    
+    def neighbor(self, r, c):
         direction = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+        ans = []
         for i, d in enumerate(direction):
             nr = r + d[0]
             nc = c + d[1]
             if nr >= 0 and nr < self.row and nc >= 0 and nc < self.col:
-                nei.append((nr, nc, i + 1))
-        return nei
+                ans.append((nr, nc, i + 1))
+        return ans
