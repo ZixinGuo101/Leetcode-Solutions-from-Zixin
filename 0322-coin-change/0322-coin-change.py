@@ -7,12 +7,14 @@ class Solution:
             return -1
         if len(coins) == 1:
             return amount // coins[0] if amount % coins[0] == 0 else -1
+        '''
         g = reduce(gcd, coins)
         if amount % g:
             return -1
         if g > 1:
             amount //= g
-            coins = [coin // g for coin in coins ]
+            coins = [coin // g for coin in coins]
+        '''
 
         mask = (1 << (1 + amount)) - 1
         target = 1 << amount
