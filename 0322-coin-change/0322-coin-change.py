@@ -2,7 +2,7 @@ class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         if amount == 0:
             return 0
-        coins = list(set(coin for coin in coins if coin <= amount))
+        coins = list(set(coin for coin in coins))
         if not coins:
             return -1
         if len(coins) == 1:
