@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -214,6 +215,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0037-sudoku-solver/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -230,6 +232,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -1105,6 +1108,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0046-permutations/) | Medium |
@@ -1238,4 +1242,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
