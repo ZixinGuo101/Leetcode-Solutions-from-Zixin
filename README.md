@@ -791,6 +791,7 @@
 | [0886-possible-bipartition](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0886-possible-bipartition/) | Medium |
 | [0919-complete-binary-tree-inserter](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -1119,6 +1120,7 @@
 | [0113-path-sum-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Brainteaser
