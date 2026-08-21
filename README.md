@@ -47,6 +47,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
@@ -881,6 +882,7 @@
 | [0342-power-of-four](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0476-number-complement/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0868-binary-gap](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0868-binary-gap/) | Easy |
@@ -980,6 +982,7 @@
 | [0322-coin-change](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
@@ -1122,6 +1125,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -1259,4 +1263,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0022-generate-parentheses/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
