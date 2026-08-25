@@ -63,6 +63,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0739-daily-temperatures](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -992,6 +993,7 @@
 | [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
