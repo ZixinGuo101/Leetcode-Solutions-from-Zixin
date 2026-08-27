@@ -411,6 +411,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1023-camelcase-matching](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1023-camelcase-matching/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -999,6 +1000,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Monotonic Stack
@@ -1280,4 +1282,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
