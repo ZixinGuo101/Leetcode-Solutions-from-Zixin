@@ -401,6 +401,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0648-replace-words](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0648-replace-words/) | Medium |
 | [0677-map-sum-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0677-map-sum-pairs/) | Medium |
@@ -994,6 +995,7 @@
 | [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
@@ -1285,5 +1287,6 @@
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
