@@ -388,6 +388,7 @@
 | [0072-edit-distance](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0115-distinct-subsequences/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -993,6 +994,7 @@
 | [0072-edit-distance](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+| [0115-distinct-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0322-coin-change/) | Medium |
