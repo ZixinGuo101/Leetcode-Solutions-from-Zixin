@@ -47,6 +47,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -1000,6 +1001,7 @@
 | [0322-coin-change](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -1270,6 +1272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1301,4 +1304,8 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
