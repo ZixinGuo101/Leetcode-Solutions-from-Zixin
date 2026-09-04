@@ -2,17 +2,19 @@ class Solution:
     def canPartition(self, nums: List[int]) -> bool:
         n = len(nums)
         total = sum(nums)
-        if total % 2:
+        if total & 1:
             return False
-        total //= 2
-        @cache
-        def dfs(i, c):
-            if i < 0:
-                return c == 0
-            if nums[i] > c:
-                return dfs(i - 1, c)
-            return dfs(i - 1, c) or dfs(i - 1, c - nums[i])
-        if dfs(n - 1, total):
-            return True
-        else:
-            return False
+        total >>= 1
+        dp = [[False] * (total + 1) for _ in range(n + 1)]
+        dp[0][0] = True
+        temp_sum = 0
+        for i in range(1, n + 1):
+            x = nums[i - 1]
+            temp_sum += x
+            for j in range(1, total + 1):
+                if j > temp_sum:
+                    break
+                dp[i][j] = dp[i - 1][j]
+                if j >= x:
+                    dp[i][j] |= dp[i - 1][j - x]
+        return dp[n][total]
