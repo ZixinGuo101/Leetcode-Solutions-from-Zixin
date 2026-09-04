@@ -1,20 +1,21 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        if len(t) > len(s):
-            return 0
-
+        m = len(s)
+        n = len(t)
+        # if m < n:
+        #     return False
+        
         memo = {}
-
+        
         def dfs(i, j):
-            if i == len(s) or j == len(t) or len(s) - i < len(t) - j:
-                return int(j == len(t))
+            if i < 0 or j < 0 or i < j:
+                return int(j == -1)
             if (i, j) in memo:
                 return memo[(i, j)]
-
-            ans = dfs(i + 1, j)
+            ans = dfs(i - 1, j)
             if s[i] == t[j]:
-                ans += dfs(i + 1, j + 1)
+                ans += dfs(i - 1, j - 1)
             memo[(i, j)] = ans
             return ans
 
-        return dfs(0, 0)
+        return dfs(m-1, n-1)
