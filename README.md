@@ -143,6 +143,7 @@
 | [3649-number-of-perfect-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -930,6 +931,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3827-count-monobit-integers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -1021,6 +1023,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
