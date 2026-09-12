@@ -51,6 +51,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0518-coin-change-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -1008,6 +1009,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0518-coin-change-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
@@ -1282,11 +1284,13 @@
 | [0322-coin-change](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0518-coin-change-ii/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0518-coin-change-ii/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
