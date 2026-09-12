@@ -1023,6 +1023,7 @@
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
