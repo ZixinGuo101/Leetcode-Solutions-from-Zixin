@@ -144,6 +144,7 @@
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -1035,6 +1036,7 @@
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
