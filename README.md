@@ -144,6 +144,7 @@
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -1037,6 +1038,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
