@@ -1,16 +1,18 @@
 class Solution:
     def numberOfWays(self, s: str) -> int:
-        n = len(s)
-        n0 = 0
-        n1 = 0
-        n01 = 0
-        n10 = 0
-        ans = 0
-        for l in s:
-            num = int(l)
-            n0 += 1 - num
-            n1 += num
-            n01 += num * n0
-            n10 += (1 - num) * n1
-            ans += (1 - num) * n01 + num * n10
-        return ans
+        ways = 0
+        ones = 0
+        zeros = 0
+        zero_ones = 0
+        one_zeros = 0
+
+        for c in s:
+            if c == '0':
+                zeros += 1          # 0
+                one_zeros += ones   # 10
+                ways += zero_ones   # 010
+            else:
+                ones += 1           # 1
+                zero_ones += zeros  # 01
+                ways += one_zeros
+        return ways
