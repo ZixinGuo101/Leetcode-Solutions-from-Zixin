@@ -227,6 +227,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
@@ -437,6 +438,7 @@
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -1036,6 +1038,7 @@
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
