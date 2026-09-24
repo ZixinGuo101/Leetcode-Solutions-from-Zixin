@@ -135,6 +135,7 @@
 | [2564-substring-xor-queries](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2564-substring-xor-queries/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
@@ -1039,6 +1040,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
