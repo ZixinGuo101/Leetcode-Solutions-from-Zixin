@@ -102,6 +102,7 @@
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -1043,6 +1044,7 @@
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
@@ -1345,6 +1347,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
