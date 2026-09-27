@@ -113,6 +113,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1670-design-front-middle-back-queue/) | Medium |
 | [1720-decode-xored-array](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2090-k-radius-subarray-averages/) | Medium |
@@ -1045,6 +1046,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
