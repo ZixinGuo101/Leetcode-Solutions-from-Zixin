@@ -1,16 +1,21 @@
 class Solution:
     def maxNonDecreasingLength(self, nums1: List[int], nums2: List[int]) -> int:
-        n = len(nums1)
-        dp1 = dp2 = 1   # 选 nums1 或 nums2 之后LNDS 的长度
-        prev1 = prev2 = min(nums1[0], nums2[0])
-        ans = 1
-        for i in range(1, n):
-            new1_dp1 = dp1 + 1 if nums1[i] >= prev1 else 1
-            new2_dp1 = dp2 + 1 if nums1[i] >= prev2 else 1
-            new1_dp2 = dp1 + 1 if nums2[i] >= prev1 else 1
-            new2_dp2 = dp2 + 1 if nums2[i] >= prev2 else 1
-            dp1, dp2 = max(new1_dp1, new2_dp1), max(new1_dp2, new2_dp2)
-            ans = max(ans, dp1, dp2)
-            prev1 = nums1[i]
-            prev2 = nums2[i]
-        return ans
+        
+        l1, l2 = 0, 0
+        prev1, prev2 = 0, 0
+        output = 0
+        for cur1, cur2 in zip(nums1, nums2):
+            next1, next2 = 1, 1
+            if cur1 >= prev1:
+                next1 = l1 + 1
+            if cur1 >= prev2 and next1 < l2+1:
+                next1 = l2 + 1
+            if cur2 >= prev1:
+                next2 = l1 + 1
+            if cur2 >= prev2 and next2 < l2+1:
+                next2 = l2 + 1
+            l1, l2 = next1, next2
+            prev1, prev2 = cur1, cur2
+            output = max(output, l1, l2)
+        
+        return output
