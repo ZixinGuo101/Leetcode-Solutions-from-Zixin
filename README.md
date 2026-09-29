@@ -148,6 +148,7 @@
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3072-distribute-elements-into-two-arrays-ii/) | Hard |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
@@ -237,6 +238,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1053,6 +1055,7 @@
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
