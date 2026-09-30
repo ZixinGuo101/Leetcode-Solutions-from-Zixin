@@ -239,6 +239,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +459,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 ## Sorting
@@ -1008,6 +1010,7 @@
 | [2429-minimize-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2429-minimize-xor/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1059,6 +1062,7 @@
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
