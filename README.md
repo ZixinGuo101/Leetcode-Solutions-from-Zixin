@@ -95,6 +95,7 @@
 | [1094-car-pooling](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1306-jump-game-iii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1306-jump-game-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -1049,6 +1050,7 @@
 | [0968-binary-tree-cameras](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1035-uncrossed-lines](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
