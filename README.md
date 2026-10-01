@@ -1348,6 +1348,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0022-generate-parentheses/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
