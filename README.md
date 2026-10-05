@@ -1060,6 +1060,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2786-visit-array-positions-to-maximize-score/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
