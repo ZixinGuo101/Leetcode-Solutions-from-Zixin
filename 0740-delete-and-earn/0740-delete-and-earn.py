@@ -1,15 +1,10 @@
 class Solution:
     def deleteAndEarn(self, nums: list[int]) -> int:
-        nums.sort()
-        n = len(nums)
-        dp_earn = nums[0]
-        dp_not_earn = 0
-        for i in range(1, n):
-            temp = max(dp_earn, dp_not_earn)
-            if nums[i] == nums[i-1]:
-                dp_earn += nums[i]
-            elif nums[i] == nums[i-1] + 1:
-                dp_earn, dp_not_earn = dp_not_earn + nums[i], temp
-            else:
-                dp_earn, dp_not_earn = nums[i] + temp, temp
-        return max(dp_earn, dp_not_earn)
+        range_array = [0] * (max(nums) + 1)
+        for num in nums:
+            range_array[num] += num
+        dp_curr = 0
+        dp_prev = 0
+        for num in range_array:
+            dp_curr, dp_prev = max(dp_curr, dp_prev + num), dp_curr
+        return dp_curr
