@@ -74,6 +74,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0739-daily-temperatures](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0740-delete-and-earn](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0832-flipping-an-image](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
@@ -288,6 +289,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0652-find-duplicate-subtrees/) | Medium |
 | [0677-map-sum-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0677-map-sum-pairs/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0740-delete-and-earn](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0740-delete-and-earn/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -1046,6 +1048,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0740-delete-and-earn](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0792-number-of-matching-subsequences/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0894-all-possible-full-binary-trees/) | Medium |
