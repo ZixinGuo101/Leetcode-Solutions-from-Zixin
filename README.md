@@ -154,6 +154,7 @@
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
@@ -195,6 +196,7 @@
 | [2540-minimum-common-value](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Hard/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Linked List
@@ -399,6 +402,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -494,6 +498,7 @@
 | [2191-sort-the-jumbled-numbers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/3649-number-of-perfect-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -1069,6 +1074,7 @@
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3290-maximum-multiplication-score/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
@@ -1148,6 +1154,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Medium/0923-3sum-with-multiplicity/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/ZixinGuo101/Leetcode-Solutions-from-Zixin/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
